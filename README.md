@@ -1,3 +1,3 @@
 Dropdown Horizontal 8 Link Navigation
 ======================
-[CodePen](http://codepen.io/geoffreyrose/pen/dPWPOd)
+[Example on CodePen](http://codepen.io/geoffreyrose/pen/dPWPOd)
